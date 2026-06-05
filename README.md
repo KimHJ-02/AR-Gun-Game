@@ -279,7 +279,7 @@ README에 이미지를 넣을 때는 다음 형식을 사용할 수 있다.
 
 데모 영상은 아래 파일로 확인할 수 있다.
 
-![데모 게임 플레이 영상](./screenshots/demo_gameplay.mp4)
+![데모 게임 플레이 영상](AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshots/demo_gameplay.mp4)
 
 ## 12. 결과
 
