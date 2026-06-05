@@ -276,8 +276,11 @@ README에 이미지를 넣을 때는 다음 형식을 사용할 수 있다.
 ![데모 스크린샷 1](screenshots/demo_1.png)
 ![데모 스크린샷 2](screenshots/demo_2.png)
 ```
+데모 사진은 이렇게 되고
+![데모 스크린샷 1](screenshots/demo_1.png)
+![데모 스크린샷 2](screenshots/demo_2.png)
 
-데모 영상은 아래 파일로 확인할 수 있다.
+데모 영상은 아래 파일을 다운 받아 확인 할 수 있다.
 
 [데모 게임 플레이 영상](screenshots/demo_gameplay.mp4)
 
