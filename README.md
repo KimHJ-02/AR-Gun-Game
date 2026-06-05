@@ -265,21 +265,21 @@ debug gun 상태가 True이면 CNN 예측 결과와 상관없이 사용자를 `g
 게임 실행 화면은 `screenshots/` 폴더에 추가할 수 있다.
 
 ```text
-screenshots/demo_1.png
-screenshots/demo_2.png
-screenshots/demo_gameplay.mp4
+AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshotsscreenshots/demo_1.png
+AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshotsscreenshots/demo_2.png
+AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshotsscreenshots/demo_gameplay.mp4
 ```
 
 README에 이미지를 넣을 때는 다음 형식을 사용할 수 있다.
 
 ```markdown
-![데모 스크린샷 1](screenshots/demo_1.png)
-![데모 스크린샷 2](screenshots/demo_2.png)
+![데모 스크린샷 1](AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshotsscreenshots/demo_1.png)
+![데모 스크린샷 2](AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshotsscreenshots/demo_2.png)
 ```
 
 데모 영상은 아래 파일로 확인할 수 있다.
 
-[데모 게임 플레이 영상](screenshots/demo_gameplay.mp4)
+[데모 게임 플레이 영상](AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshots/demo_gameplay.mp4)
 
 ## 12. 결과
 
