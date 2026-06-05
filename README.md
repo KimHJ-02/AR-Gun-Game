@@ -273,13 +273,15 @@ debug gun 상태가 True이면 CNN 예측 결과와 상관없이 사용자를 `g
 README에 이미지를 넣을 때는 다음 형식을 사용할 수 있다.
 
 ```markdown
-![데모 스크린샷 1](./screenshots/demo_1.png)
-![데모 스크린샷 2](./screenshots/demo_2.png)
+<img width="640" height="480" alt="demo_1" src="https://github.com/user-attachments/assets/2c685e93-9f49-439a-8a5b-70bd93e247d4" />
+<img width="640" height="480" alt="demo_2" src="https://github.com/user-attachments/assets/993f2cfd-2eec-4e08-8aa7-806eeaa8d47c" />
 ```
 
 데모 영상은 아래 파일로 확인할 수 있다.
 
-![데모 게임 플레이 영상](AR Zombie Shooting Game with Hand-Gun Gesture Recognition/screenshots/demo_gameplay.mp4)
+https://github.com/user-attachments/assets/5e3a5b03-29ec-465c-a15c-94e524278d7d
+
+
 
 ## 12. 결과
 
